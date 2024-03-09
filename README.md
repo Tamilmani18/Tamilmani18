@@ -19,7 +19,7 @@
 #
 
 <h3 align="left">Connect with me:</h3>
-
+<br/>
 <p align="left">
 <a href="https://linkedin.com/in/tamil-mani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamil-mani18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tamilmani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamilmani18" height="30" width="40" /></a>
@@ -31,6 +31,8 @@
 #
 
 ### 🧰 Languages and Tools
+
+<br/>
 
 <p align="left">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
@@ -50,7 +52,9 @@
 </p>
 
 <br/>
----
+
+
+#
 
 ### Now Playing 🎧
 
