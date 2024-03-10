@@ -67,3 +67,12 @@
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilmani18&theme=tokyonight)
+
+#
+
+### 🤞 Quote
+
+<br/>
+
+**"True gamers never surrender; they persist, level up, and respawn stronger with every challenge. Victory becomes inevitable."**
+
