@@ -56,9 +56,9 @@
 
 #
 
-### Now Playing 🎧
+### 👨‍💻 LeetCode Stats 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xiws34ldhtscldqrknvoako64i)
+[![Tamil's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Tamilmani18&theme=dark)](https://leetcode.com/Tamilmani18/)
 <br/>
 ---
 
