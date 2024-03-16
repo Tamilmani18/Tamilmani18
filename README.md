@@ -18,12 +18,12 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👇 Connect with Me</h3>
 <br/>
 <p align="left">
 <a href="https://linkedin.com/in/tamil-mani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamil-mani18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tamilmani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamilmani18" height="30" width="40" /></a>
 <a href="https://instagram.com/tamil._ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamil._ig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tamilmani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamilmani18" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21920530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21920530" height="30" width="40" /></a>
 <a href="https://medium.com/@tamilmani.hp5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tamilmani.hp5" height="30" width="40" /></a>
 </p>
