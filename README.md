@@ -26,7 +26,7 @@
 
  <div align="center"> 
      
-   <h2 align="center">👇 Connect with Me</h2>
+   <h3 align="center">👇 Connect with Me</h2>
    
    <br/>
    
@@ -47,7 +47,8 @@
 #
 
  <div align="center">
-    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+     <br/>
     <img src="https://skillicons.dev/icons?i=java,javascript,c,dart,html,css,github,git,docker,androidstudio" />
     <br>
     <img src="https://skillicons.dev/icons?i=flutter,nodejs,react,express,mongodb,mysql" /><br>
