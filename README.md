@@ -56,15 +56,6 @@
 
 #
 <div align="center">
-    
-### 👨‍💻 LeetCode Stats 
-
-[![Tamil's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Tamilmani18&theme=dark)](https://leetcode.com/Tamilmani18/)
-<br/>
----
-</div>
-
-<div align="center">
  
 ### 📊 Stats
 
